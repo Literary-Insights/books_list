@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     {title: "The Phone Fix - Dr Faye Begeti", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Mastery - The Keys To Success And Long-Term Fulfillment - George Leonard", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Supercommunicators: How to Unlock the Secret Language of Connection - Charles Duhigg", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
+    {title: "This Book May Save Your Life Everyday Health Hacks to Worry Less and Live Better-Karan Rajan", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Optimal - Daniel Goleman", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Ultralearning Master Hard Skills Outsmart the Competition and Accelerate Your Career", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Your Pocket Therapist - Dr. Annie Zimmerman", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
