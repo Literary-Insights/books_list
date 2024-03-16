@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function() {
           titleDiv.className = "text-center p-2";
           
           const link = document.createElement('a');
-          link.href = `https://www.amazon.com/s?k=${encodeURIComponent(book.title)}&language=en_US&...`;
+          link.href = `https://www.amazon.com/s?k=${encodeURIComponent(book.title)}&language=en_US&crid=394BKWL5WW95V&linkCode=sl2&linkId=2427950e84b2e6fab6434b6771a064e8&sprefix=%2Caps%2C310&tag=matheuspupp0a-20&ref=as_li_ss_tl`;
           link.textContent = book.title;
           link.target = "_blank";
           link.className = "text-blue-600 hover:text-blue-800 font-semibold";
