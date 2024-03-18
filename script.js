@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   const books = [
+    {title: "The Hunger Habit - Why We Eat When Were Not Hungry and How to Stop - Judson Brewer", imageUrl: "images/The Hunger Habit - Why We Eat When Were Not Hungry and How to Stop - Judson Brewer.jpg"},
     {title: "Practical Optimism: The Art, Science, and Practice of Exceptional Well-Being - Sue Varma", imageUrl: "images/Practical Optimism: The Art, Science, and Practice of Exceptional Well-Being - Sue Varma.jpg"},
     {title: "Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "The Balanced Brain - Camilla Nord", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
@@ -129,7 +130,7 @@ document.addEventListener('DOMContentLoaded', function() {
     {title: "The Lean Startup - Eric Ries", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Skin in the Game - Nassim Nicholas Taleb", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "The Power of Now - Eckhart Tolle", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
-    {title: "Antifragile - Things That Gain from Disorder - Nassim Taleb", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
+    {title: "Antifragile - Things That Gain from Disorder - Nassim Taleb", imageUrl: "https://cdn.hashnode.com/res/hashnode/image/upload/v1682082306024/c21cb674-3ef5-43a3-9328-79de730e96e6.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp"},
     {title: "Mind to Matter - Dawson Church", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Hooked - Nir Eyal", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "The Untethered Soul - Jefferson A Singer", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
