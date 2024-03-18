@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   const books = [
+    {title: "12 Questions for Love A Guide to Intimate Conversations and Deeper Relationships Topaz Adizes", imageUrl: "images/12 Questions for Love A Guide to Intimate Conversations and Deeper Relationships Topaz Adizes.jpg"},
     {title: "The Hunger Habit - Why We Eat When Were Not Hungry and How to Stop - Judson Brewer", imageUrl: "images/The Hunger Habit - Why We Eat When Were Not Hungry and How to Stop - Judson Brewer.jpg"},
     {title: "Practical Optimism: The Art, Science, and Practice of Exceptional Well-Being - Sue Varma", imageUrl: "images/Practical Optimism: The Art, Science, and Practice of Exceptional Well-Being - Sue Varma.jpg"},
     {title: "Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
