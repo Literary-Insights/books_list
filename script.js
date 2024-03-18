@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   const books = [
+    {title: "Practical Optimism: The Art, Science, and Practice of Exceptional Well-Being - Sue Varma", imageUrl: "images/Practical Optimism: The Art, Science, and Practice of Exceptional Well-Being - Sue Varma.jpg"},
     {title: "Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "The Balanced Brain - Camilla Nord", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Reinvent Yourself - Susan Kahn", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
@@ -23,6 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
     {title: "The Art Of Focus - Dan Koe", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Self-Talk for a Calmer You - Beverly Flaxington", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "100M Offers How to Make Offers So Good People Feel Stupid Saying No - Alex Hormozi", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
+    {title: "Million Dollar Weekend The Surprisingly Simple Way to Launch a 7-Figure Business in 48 Hours", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Feel-Good Productivity: How to Do More of What Matters to You - Ali Abdaal", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Abundance - The Inner Path to Wealth - Deepak Chopra", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Power: Why Some People Have It—and Others Don't- Jeffrey Pfeffer", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
@@ -61,7 +63,7 @@ document.addEventListener('DOMContentLoaded', function() {
     {title: "Way of the Wolf - Jordan Belfort", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Spiritual Activator - Oliver Nino", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Soul Boom: Why We Need a Spiritual Revolution - Rainn Wilson", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
-    {title: "The Surrender Experiment - Michael A. Singer - NEW NARRATOR", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
+    {title: "The Surrender Experiment - Michael A. Singer", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Verbal Judo - The Gentle Art of Persuasion - George J. Thompson", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "How to Fail at Almost Everything and Still Win Big - Scott Adams", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "Shoe Dog - A Memoir by the Creator of Nike - Phil Knight", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
@@ -145,6 +147,10 @@ document.addEventListener('DOMContentLoaded', function() {
     {title: "The Power of Experiments: Decision Making in a Data-Driven World - Michael Luca", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "The Courage to Be Disliked - Ichiro Kishimi", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
     {title: "The Almanack of Naval Ravikant - Eric Jorgenson", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
+    {title: "Thinking in Bets - Making Smarter Decisions  - Annie Duke", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
+    {title: "The Millionaire Fastlane - Crack the Code to Wealth and Live Rich for a Lifetime -MJ Demarco", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
+    {title: "Smarter Faster Better: The Secrets of Being Productive in Life and Business- Charles Duhigg", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
+    {title: "How to Stop Worrying and Start Living - Dale Carnegie", imageUrl: "images/Slow Productivity The Lost Art of Accomplishment Without Burnout - Cal Newport.jpg"},
 ];
 
   const booksList = document.getElementById('booksList');
